@@ -1,0 +1,18 @@
+import java_cup.runtime.*;
+
+terminal CLASS, VOID, FINAL, RETURN;
+terminal String INT, CHAR, STRING, BOOL, FLOAT;
+terminal READ, PRINT, PRINTLINE;
+terminal IF, ELSE, WHILE, TRUE, FALSE;
+terminal ROUND_OPEN, ROUND_CLOSE, CURLY_OPEN, CURLY_CLOSE, SQR_OPEN, SQR_CLOSE;
+terminal SEMICOLON, COMMA, QUESTION, COLON, NOT;
+terminal INCREMENT, DECREMENT, MULTIPLY, DIVISION, PLUS, MINUS, ASSIGNMENT;
+terminal LT, GT, EQ, LTE, GTE, NE, OR, AND;
+terminal String ID;
+terminal int INTLITERAL;
+terminal double FLOATLITERAL;
+terminal String CHARLITERAL;
+terminal String STRINGLITERAL;
+
+non terminal dummy;
+dummy ::= ;

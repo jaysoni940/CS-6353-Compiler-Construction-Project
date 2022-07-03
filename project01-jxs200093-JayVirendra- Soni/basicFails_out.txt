@@ -1,0 +1,12 @@
+Illegal Character Found, . line:1 col:0
+Token #46, with value = 1; at line 1, column 1
+Token #46, with value = 2; at line 2, column 0
+Illegal Character Found, . line:2 col:0
+Illegal Character Found, _ line:4 col:0
+Illegal Character Found, $ line:5 col:0
+Illegal Character Found, . line:6 col:0
+Illegal Character Found, ^ line:7 col:0
+Illegal Character Found, # line:8 col:0
+Token #45, with value = first; at line 10, column 0
+Illegal Character Found, _ line:10 col:0
+Token #45, with value = x; at line 10, column 6
